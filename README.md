@@ -1,2 +1,2 @@
 # Ciekawostki
-#Copyright 2016 Kamil Szwaradzki aka SadBoy98
+#Copyright 2016 SadBoy98

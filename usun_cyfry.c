@@ -29,7 +29,7 @@ int usun(char* tab)
     }
     return licznik;
 }
-void my_swap_chars(char* tab,int indeks) // Przerzuca znak z podanego indeksu na ostatnie miejsce w tablicy.
+void my_swap_chars(char* tab,int indeks)
 {
     char tmp = tab[indeks];
     for(int i = indeks;i < 49; ++i)

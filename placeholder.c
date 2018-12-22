@@ -3,7 +3,7 @@
 /* function to generate and return random numbers */
 int * getRandom( ) {
 
-   static char  r[10] = "kamil";
+   static char  r[10] = "hello";
       printf( "r = \"%s\"\n",r);
 
    return r;
